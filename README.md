@@ -1,5 +1,11 @@
 # Neural-Network-Differential-Evolution-Python
 
+ACCURACY AROUND 90%
+
+DATA SET: MNIST
+
+LANGUAGE: PYTHON
+
 
 # MODEL 
 
